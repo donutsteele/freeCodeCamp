@@ -16,6 +16,8 @@ Great for static content.
 
 [Figma](https://www.figma.com) - [Guide](https://github.com/freeCodeCamp/guides/blob/master/src/pages/designer-tools/Figma/index.md)
 
+[Inkscape](https://inkscape.org/)
+
 ### Interaction
 Better for complicated interactions.
 
@@ -42,6 +44,10 @@ Great for artists.
 [MediBang Paint](https://medibangpaint.com/en/)
 
 [Autodesk Sketchbook](https://www.sketchbook.com/)
+
+[GIMP](https://www.gimp.org/)
+
+[Corel Painter](https://www.painterartist.com/en/product/painter/)
 
 ## Plug-ins
 
