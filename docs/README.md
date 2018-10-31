@@ -17,25 +17,26 @@ Hello 👋!
 
 This directory contains all of the documentation on contributing to freeCodeCamp.org
 
-## [If you are getting started, start by reading this first.](/CONTRIBUTING.md)
+## [Read this first before starting to contribute.](/CONTRIBUTING.md)
 
 ---
 
 ## Quick references articles
 
-<a href="/how-to-work-on-guide-articles.md">1. How to work on Guide articles.</a>
-<a href="/how-to-work-on-coding-challenges.md">2. How to work on Coding Challenges.</a>
-<a href="/how-to-setup-freecodecamp-locally.md">3. How to setup freeCodeCamp locally.</a>
-<a href="/how-to-catch-outgoing-emails-locally.md">4. How to catch outgoing emails locally.</a>
++ [How to work on Guide articles](../docs/how-to-work-on-guide-articles.md)
++ [How to work on coding challenges](../docs/how-to-work-on-coding-challenges.md)
++ [How to set up freeCodeCamp locally](../docs/how-to-setup-freecodecamp-locally.md)
++ [How to catch outgoing emails locally](../docs/how-to-catch-outgoing-emails-locally.md)
 
 ## Style guides
 
-1. Style guide for creating guide articles.
-2. Style guide for creating coding challenges.
++ [Style guide for creating and editing Guide Articles](../docs/style-guide-for-guide-articles.md)
++ [A guide to designing freeCodeCamp coding challenges ](../docs/style-guide-for-cirriculum-challenges.md)
 
-## Quick commands reference when working locally
 
-A quick reference to the commands that you will need, when working locally.
+## Quick commands reference for working locally
+
+A quick reference for commands that you will need when working locally.
 
 | command | description |
 | ------- | ----------- |
